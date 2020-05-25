@@ -1,0 +1,258 @@
+@media (max-width: 360px) {
+  body {
+    font-size: 1.25;
+  }
+  .wrap {
+    font-size: large;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 399px) {
+  body {
+    font-size: 1.4em;
+  }
+  .wrap {
+    font-size: large;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 439px) {
+  body {
+    font-size: 1.4em;
+  }
+  .wrap {
+    font-size: large;
+  }
+}
+
+@media (min-width: 440px) and (max-width: 479px) {
+  body {
+    font-size: 1.4em;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 519px) {
+  body {
+    font-size: 1.8em;
+  }
+}
+
+@media (min-width: 520px) and (max-width: 559px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 560px) and (max-width: 599px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 639px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 679px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 680px) and (max-width: 719px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 720px) and (max-width: 759px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 760px) and (max-width: 799px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 839px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 840px) and (max-width: 879px) {
+  body {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 880px) {
+  body {
+    font-size: 2.8em;
+  }
+}
+
+@font-face {
+  font-family: NotoSans-Black;
+  src: url(resource/fonts/NotoSans/NotoSans-Black.woff) format("woff");
+}
+
+.download_btn {
+  margin: 20px auto;
+  display: table;
+}
+
+.download_btn > a {
+  display: inline-block;
+  margin: 20px;
+}
+
+.download_btn > a > img {
+}
+
+.font-center {
+  text-align: center;
+  display: table;
+  width: 80%;
+  margin: auto;
+  padding: inherit;
+}
+
+.font_top {
+  margin-bottom: 35px;
+}
+
+.font_mid {
+  margin: 35px 0px;
+}
+
+.content {
+  align-self: center;
+  place-content: center;
+  width: 80%;
+  margin: auto;
+  font-weight: 300;
+}
+
+.sort {
+  display: flex;
+  justify-content: center;
+}
+
+.social_btn {
+  margin: 20px auto;
+}
+
+.social_btn > a > img {
+  margin-left: 50px;
+}
+
+.copyright_font {
+  color: rgb(215, 215, 215);
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: large;
+}
+
+.copyright > .row {
+  margin: 20px 0px;
+}
+
+.font_yellow {
+  color: #ffcc33;
+}
+
+.font_bord {
+  font-weight: bold;
+}
+
+html,
+body {
+  color: rgb(215, 215, 215);
+  background: rgb(244, 244, 244);
+  font-family: NotoSans;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.body_content {
+  background: rgb(41, 41, 41);
+  color: rgb(231, 231, 231);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.bottom {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
+.top_icon {
+  margin: 30%;
+}
+
+.font-center > img {
+  width: 100%;
+}
+
+.wrap {
+  display: inline-flex;
+  font-size: x-large;
+}
+
+.v_sort {
+  align-self: center;
+}
+
+.terms {
+  font-size: 20px;
+}
+
+.terms_container {
+  text-align: left;
+  /* color:; */
+  margin-left: 50px;
+}
+
+.company_info {
+  text-align: left;
+  margin-left: 50px;
+}
+
+.info {
+  font-size: 20px;
+}
+
+.textarea1 {
+  max-width: 100%;
+  height: 100%;
+}
+
+.textarea2 {
+  max-width: 100%;
+  height: 100%;
+}
+
+.textarea3 {
+  max-width: 100%;
+  height: 100%;
+}
+
+.service_terms {
+  color: rgb(197, 194, 194);
+}
+
+.user_terms {
+  color: rgb(197, 194, 194);
+}
+
+.info {
+  color: rgb(197, 194, 194);
+}
